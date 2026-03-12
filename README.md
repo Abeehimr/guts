@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 🔧 Compilation
 
