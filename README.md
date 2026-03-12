@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-### 🔧 Compilation
+### Compilation
 
 To build **guts**, run:
 
